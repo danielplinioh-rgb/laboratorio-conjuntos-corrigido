@@ -81,7 +81,9 @@ Essa parte mostra como conceitos matemáticos fundamentais se tornam extremament
 - [Parte2ConjuntosNumericos.java](Parte2ConjuntosNumericos.java): classificação numérica e cálculos auxiliares
 - [Parte3ControleAcesso.java](Parte3ControleAcesso.java): mini sistema de controle de acesso por perfis
 - [logs/](logs): arquivos com exemplos e cenários de execução
+- [relatorio/Relatorio.pdf](relatorio/Relatorio.pdf): relatório de 1 página (onde a teoria dos conjuntos apareceu no código e qual operação foi mais difícil)
 - [README.md](README.md): documentação do projeto
+
 
 ---
 
